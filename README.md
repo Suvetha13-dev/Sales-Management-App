@@ -199,25 +199,21 @@ http://localhost:5000/api-docs
 # 📸 Screenshots
 
 ## Login Page
-(Add Screenshot Here)
+![Login Page](./screenshots/login.png)
 
-## Dashboard
-(Add Screenshot Here)
+## Sales Dashboard
+![Sales Dashboard](./screenshots/dashboard.png)
 
-## Add Sales Page
-(Add Screenshot Here)
+## Add Sale Page
+![Add Sale](./screenshots/add-sale.png)
 
----
+## View Sale Page
+![View Sale](./screenshots/view-sale.png)
 
-# 🌐 Live Demo
-
-(Add Deployment Link Here)
-
----
 
 # 👨‍💻 Author
 
-Developed by Your Name
+Developed by Suvetha
 
 ---
 
